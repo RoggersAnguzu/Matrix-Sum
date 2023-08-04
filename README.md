@@ -5,7 +5,7 @@ This C# console application allows you to add two matrices by entering their ele
 
 ## How to Use
 
-1. Clone the repository to your local machine:
+ Clone the repository to your local machine:
 
 ```bash
 git clone https://github.com/your-username/matrix-addition.git
