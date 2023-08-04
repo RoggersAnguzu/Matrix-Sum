@@ -8,7 +8,7 @@ This C# console application allows you to add two matrices by entering their ele
  Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/matrix-addition.git
+git clone .
 Open the solution in your C# development environment (e.g., Visual Studio).
 
 Build the solution to resolve dependencies.
