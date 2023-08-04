@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\CREATING A MATRIX USING A 2D Array\CREATING A MATRIX USING A 2D Array\bin\Debug\net6.0\CREATING A MATRIX USING A 2D Array.exe
+C:\Users\Admin\source\repos\CREATING A MATRIX USING A 2D Array\CREATING A MATRIX USING A 2D Array\bin\Debug\net6.0\CREATING A MATRIX USING A 2D Array.deps.json
+C:\Users\Admin\source\repos\CREATING A MATRIX USING A 2D Array\CREATING A MATRIX USING A 2D Array\bin\Debug\net6.0\CREATING A MATRIX USING A 2D Array.runtimeconfig.json
+C:\Users\Admin\source\repos\CREATING A MATRIX USING A 2D Array\CREATING A MATRIX USING A 2D Array\bin\Debug\net6.0\CREATING A MATRIX USING A 2D Array.dll
+C:\Users\Admin\source\repos\CREATING A MATRIX USING A 2D Array\CREATING A MATRIX USING A 2D Array\bin\Debug\net6.0\CREATING A MATRIX USING A 2D Array.pdb
+C:\Users\Admin\source\repos\CREATING A MATRIX USING A 2D Array\CREATING A MATRIX USING A 2D Array\obj\Debug\net6.0\CREATING A MATRIX USING A 2D Array.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\CREATING A MATRIX USING A 2D Array\CREATING A MATRIX USING A 2D Array\obj\Debug\net6.0\CREATING A MATRIX USING A 2D Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\CREATING A MATRIX USING A 2D Array\CREATING A MATRIX USING A 2D Array\obj\Debug\net6.0\CREATING A MATRIX USING A 2D Array.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\CREATING A MATRIX USING A 2D Array\CREATING A MATRIX USING A 2D Array\obj\Debug\net6.0\CREATING A MATRIX USING A 2D Array.AssemblyInfo.cs
+C:\Users\Admin\source\repos\CREATING A MATRIX USING A 2D Array\CREATING A MATRIX USING A 2D Array\obj\Debug\net6.0\CREATING A MATRIX USING A 2D Array.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\CREATING A MATRIX USING A 2D Array\CREATING A MATRIX USING A 2D Array\obj\Debug\net6.0\CREATING A MATRIX USING A 2D Array.dll
+C:\Users\Admin\source\repos\CREATING A MATRIX USING A 2D Array\CREATING A MATRIX USING A 2D Array\obj\Debug\net6.0\refint\CREATING A MATRIX USING A 2D Array.dll
+C:\Users\Admin\source\repos\CREATING A MATRIX USING A 2D Array\CREATING A MATRIX USING A 2D Array\obj\Debug\net6.0\CREATING A MATRIX USING A 2D Array.pdb
+C:\Users\Admin\source\repos\CREATING A MATRIX USING A 2D Array\CREATING A MATRIX USING A 2D Array\obj\Debug\net6.0\CREATING A MATRIX USING A 2D Array.genruntimeconfig.cache
+C:\Users\Admin\source\repos\CREATING A MATRIX USING A 2D Array\CREATING A MATRIX USING A 2D Array\obj\Debug\net6.0\ref\CREATING A MATRIX USING A 2D Array.dll

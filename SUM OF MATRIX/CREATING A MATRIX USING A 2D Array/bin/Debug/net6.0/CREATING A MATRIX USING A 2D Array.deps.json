@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CREATING A MATRIX USING A 2D Array/1.0.0": {
+        "runtime": {
+          "CREATING A MATRIX USING A 2D Array.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CREATING A MATRIX USING A 2D Array/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
